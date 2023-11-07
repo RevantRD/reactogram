@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/reactogram/static/css/main.f3205eb1.css",
+    "main.js": "/reactogram/static/js/main.14941c3b.js",
+    "static/js/787.12f27bc5.chunk.js": "/reactogram/static/js/787.12f27bc5.chunk.js",
+    "static/media/social-desktop.PNG": "/reactogram/static/media/social-desktop.6caa32fb2aa06f6edb63.PNG",
+    "static/media/social-mobile.PNG": "/reactogram/static/media/social-mobile.9d90f395258c18b37ffe.PNG",
+    "static/media/logo.PNG": "/reactogram/static/media/logo.75eed94286e4395e82ba.PNG",
+    "index.html": "/reactogram/index.html",
+    "main.f3205eb1.css.map": "/reactogram/static/css/main.f3205eb1.css.map",
+    "main.14941c3b.js.map": "/reactogram/static/js/main.14941c3b.js.map",
+    "787.12f27bc5.chunk.js.map": "/reactogram/static/js/787.12f27bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3205eb1.css",
+    "static/js/main.14941c3b.js"
+  ]
+}
